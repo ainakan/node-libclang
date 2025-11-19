@@ -1,5 +1,5 @@
 {
-  "name": "frida-libclang",
+  "name": "ainakan-libclang",
   "version": "0.0.12",
   "main": "libclang.js",
   "description": "Bindings to libclang",
